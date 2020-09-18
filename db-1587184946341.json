@@ -1,0 +1,29 @@
+{
+  "Posts": [
+    {
+      "title": "POST 1 AGAIN MODIFY",
+      "body": "THIS IS POST 1",
+      "id": 1
+    },
+    {
+      "title": "POST 2",
+      "body": "THIS IS POST 2",
+      "id": 2
+    },
+    {
+      "title": "POST 3",
+      "body": "THIS IS POST 3",
+      "id": 3
+    },
+    {
+      "title": "POST 4 MODIFIED",
+      "body": "THIS IS POST 4 ",
+      "id": 4
+    },
+    {
+      "title": "NEW POST 1",
+      "body": "Hello, this is my new Post on Micropost",
+      "id": 5
+    }
+  ]
+}
